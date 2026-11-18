@@ -1,0 +1,6 @@
+productapp\ProductApp.class
+productapp\IProductCalculations.class
+com\mycompany\productsalesgui\IProductSales.class
+com\mycompany\productsalesgui\ProductSales.class
+productapp\ProductCalculations.class
+test\ProductCalculationsTest.class
